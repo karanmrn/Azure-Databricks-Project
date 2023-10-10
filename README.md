@@ -1,6 +1,6 @@
 # Azure-Databricks-Project
 Azure end to end Databricks project
-Short Summary for [Olympic Data Analytics | Azure End-To-End Data Engineering Project](https://www.youtube.com/watch?v=IaA9YNlg5hM) by [Merlin](https://merlin.foyer.work/)
+Short Summary for Olymipic Project using Azure
 
 This project uses Azure Data Factory to extract data from an API and load it onto Azure Data Lake. Spark code is used for transformation and Synapse Analytics for analysis. 
 
